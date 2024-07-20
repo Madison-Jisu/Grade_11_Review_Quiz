@@ -1,0 +1,69 @@
+1. A car starts from rest and accelerates uniformly over a time of 5.21 seconds for a distance of 110m. Determine the acceleration of the car.
+a) 10.0 m/s^2
+b) 7.30 m/s^2
+c) 9.60 m/s^2
+d) 8.10 m/s^2
+3
+
+2. An airplane accelerates down a runway at 3.20 m/s^2 for 32.8s until it finally lifts off the ground. Determine the distance traveled before takeoff.
+a) 1720 m
+b) 2080 m
+c) 1540 m
+d) 2100 m
+0
+
+3. A feather is dropped on the moon from a height of 1.40 meters. The acceleration of gravity on the moon is 1.67 m/s^2. Determine the time for the feather to fall to the ground.
+a) 1.10s
+b) 1.29s
+c) 0.57s
+d) 0.32s
+1
+
+4. A track athlete starts from the starting line of a race. He runs 100m in 10.5s, then walks back to the starting point in 45s. What was his average velocity?
+a) 0.0 m/s
+b) 2.0 m/s
+c) 4.0 m/s
+d) -2.0 m/s
+0
+
+5. A car traveling at 22.4 m/s skids to a stop in 2.55s. Determine the skidding distance of the car (assume uniform acceleration).
+a) 30.0m
+b) 23.7m
+c) 28.6m
+d) 35.2m
+2
+
+6. A dragster accelerates to a speed of 112 m/s over a distance of 398 m. Determine the acceleration of the dragster.
+a) 15.8 m/s^2
+b) 16.0 m/s^2
+c) 14.2 m/s^2
+d) 13.5 m/s^2
+0
+
+7. John starts at his local park and walks 6.0 km north at 6.0 km/h and then west 10 km at 5.0 km/hr. What is the total distance traveled?
+a) 11.7 km
+b) 5.5 km
+c) 16 km
+d) 4 km
+2
+
+8. A vector has…
+a) Magnitude
+b) Direction
+c) A and B
+d) None of the above
+2
+
+9. 10 km in meters is…
+a) 100000 meters
+b) 1000 meters
+c) 10000 meters
+d) 10000 centimeters
+2
+
+10. If Phil is falling from a building. What’s his acceleration?
+a) 9.81m/s
+b) 9.8 m/s^2
+c) Phil m/s^2
+d) 9.81 m/s^2
+3

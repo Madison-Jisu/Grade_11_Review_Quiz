@@ -1,0 +1,69 @@
+1. Explain the concept of "multithreading" in Java.
+a) It refers to the ability of a program to execute multiple threads simultaneously.
+b) It is a mechanism to synchronize access to shared resources.
+c) It is only applicable to networking operations.
+d) It is a way to achieve polymorphism in Java.
+0
+
+2. What is the purpose of the volatile keyword in Java?
+a) It ensures that a variable is initialized before it is accessed.
+b) It indicates that a method cannot be overridden.
+c) It provides a way to serialize objects.
+d) It ensures visibility of changes made by one thread to other threads.
+3
+
+3. Explain the concept of Java Generics
+a) It allows the creation of generic methods and classes that work with different data types.
+b) It is a way to define constants in Java.
+c) It is used for dynamic method dispatch.
+d) It is a mechanism to implement multiple inheritance.
+0
+
+4. What is the purpose of the transient keyword in Java?
+a) It is a modifier for thread synchronization
+b) It specifies that a class cannot be extended
+c) It indicates that a variable should not be serialized
+d) It is used for type casting
+2
+
+5) Explain the concept of "dependency injection" in Java.
+a) It is a design pattern to implement singleton classes
+b) A mechanism to inject dependencies into a class during runtime
+c) Used to handle exceptions
+d) It is used to declare and initialize arrays
+1
+
+6. What is the purpose of the ‘java.nio’ package?
+a) It is used for network operations
+b) It provides support for non-blocking I/O
+c) It is a graphical user interface package
+d) It is used for mathematical operations
+0
+
+7. What is the purpose of the java.util.concurrent package in Java?
+ a) It provides utility methods for basic data types.
+ b) It is used for database operations.
+ c) It provides a framework for concurrent programming.
+ d) It is used for file input and output operations.
+2
+
+8. What is the time complexity of the QuickSort algorithm in the average case?
+a) O(n)
+b) O(n^2)
+c) O(n log n)
+d) O(log n)
+2
+
+9. In computer networking, what is the purpose of the Diffie-Hellman Key exchange?
+a) Encrypting data at rest
+b) Establishing a secure channel for communication
+c) Authenticating users in a network
+d) Verifying the integrity of transmitted data
+1
+
+10. Which data structure is most suitable for implementing an undo feature in a text editor efficiently?
+a) Linked List
+b) Queue
+c) Hash Table
+d) Stack
+3

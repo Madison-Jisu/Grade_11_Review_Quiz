@@ -1,0 +1,69 @@
+1) When comparing strings, what is the difference between ‘==’ and ‘.equals()’?
+a) Both compare values
+b) They are interchangeable
+c) ‘==’ compares values, ‘.equals()’ compares references
+d) ‘==’ compares references, ‘.equals()’ compares values
+3
+
+2) What is a constructor?
+a) A method with no return type used to initialize objects
+b) A method that returns a value
+c) A variable used to store constant values
+d) A keyword to create instances of classes
+0
+
+3) What does the command ‘this’ do in Java?
+a) It creates a new instance of a class
+b) It refers to the superclass instance
+c) It refers to the current instance of the class
+d) It calls the superclass method
+2
+
+4) What does the command ‘super’ do in Java?
+a) It initializes the subclass
+b) It calls the superclass method
+c) It creates a new instance of a class
+d) It refers to the current instance of the class
+1
+
+5) What is the difference between an abstract class and an interface in Java?
+a) An interface can have fields, while an abstract class cannot
+b) An abstract class can be instantiated. While an interface cannot
+c) There is no difference
+d) An abstract class can have both abstract and concrete methods, while and interface can only have abstract methods
+3
+
+6) What does the command ‘static’ do?
+a) It makes a variable constant
+b) It creates a new instance of a class
+c) It specifies a method that cannot be overridden
+d) It indicates that a method or variable belongs to the class, not an instance
+3
+
+7) In exception handling, what do the blocks of ‘try’, ‘catch’, and ‘finally’ do?
+a) ‘try’ contains the normal code, ‘catch’ handles exceptions, and ‘finally’ always executes
+b) try contains the code that always executes, catch handles exceptions, and finally is optional
+c) try handles exceptions, catch contains the normal code, and finally always executes
+d) try is used for debugging, catch handles exceptions, and finally contains cleanup code
+0
+
+8) What is polymorphism in Java?
+a) A  way  to copy behavior of one class to another
+b) The ability of a method to perform different actions based on the object it is acting upon
+c) The process of converting a data type into an object
+d) A technique to hid the implementation details of of a class
+1
+
+9) What is the purpose of the implements keyword in Java?
+a) It extends a class
+b) It declares a variable
+c) It implements an interface
+d) It creates an object
+2
+
+10) Which of the following statements is true about the break statement in Java?
+a) It is used to skip the rest of the code in a method
+b) It is used to create an infinite loop
+c) It is used to terminate a loop or switch statement
+d) It is used to jump to a specific line in the code
+2

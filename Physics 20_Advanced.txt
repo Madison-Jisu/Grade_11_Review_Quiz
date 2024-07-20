@@ -1,0 +1,69 @@
+1) A bullet leaves a rifle with a muzzle velocity of 521 m/s. While accelerating through the barrel of the rifle, the bullet moves a distance of 0.840 m. Determine the acceleration of the bullet. (assume uniform acceleration). Express your answer in the form ABCD where a.bc * 10^d.
+a) 2319
+b) 3448
+c) 1625
+d) 2380
+2
+
+2) A swimmer heads directly across a river swimming at 1.6 m/s relative to still water.  She arrives at a point 40 m downstream from the point directly across the 80 m wide river. Determine the direction of the swimmer’s resultant velocity.
+a) 32 degrees
+b) 21 degrees
+c) 19 degrees
+d) 27 degrees
+3
+
+3) A car enters an intersection at 20 m/s where it collides with a truck. The impact rotates the car 90 degrees and gives it a speed of 15 m/s., Determine the average acceleration of the car if it was in contact with the truck for 1.25 s.
+a) 20 m/s^2
+b) 45 m/s^2
+c) 16 m/s^2
+d) 31 m/s^2
+0
+
+4) A cat walking across the street at 5km/h for 10cm. The cat is then scared by an oncoming car which makes the cat run across to the other side at a rate of 10km/h for 1.5 seconds. How long is the street in meters/sec^2?
+a) 4.27 meters
+b) 4.26 meters
+c) 4.26 centimeters
+d) 1.25 meters
+0
+
+5) Gojo is walking at a pace of 10km/h going west and Geto is running at a pace of 20km/h going east. If both are facing each other and the distance between them is 10km, how many minutes will it take for them to meet?  (that not cool dude) wdym, it's very cool
+a) 18min
+b) 2 min
+c) 20 min
+d) They never meet.
+0
+
+6) If Gojo hits Sukuna and Sukuna moves across a  rough surface with the force of friction of 10000.0N with the friction constant being 0.45. If Sukuna has a velocity of 1000.0 m/s and Sukuna has a mass of 80.000kg, how far did Sukuna move in meters?
+a) 414.64 km
+b) 41464 meters
+c) 2158.9 km
+d) 4146.4 meters
+3
+
+7) If Phil’s dad is in an airplane going 925 km/h east away from Phil who is 500.0 km west of him. If Phil is in his private jet going 515m/s east, how many minutes will it take for Phil to catch up to his father?
+a) 32.11 minutes
+b) 32.29 minutes
+c) 486.74 minutes
+d) Phil will never reach his father.
+1
+
+8) If Toji strangles his worm thing with a force of 59 N and the worm thing explodes into two parts, one of which going 45 m away from Toji with a velocity of 68 m/s [North] and the other half is going 32 m/s at an angle of 37° (bearing ) what is the distance that the other half of worm thing traveled from Toji?
+a) 3.03 meters
+b) 4.15 meters
+c) 19.25 meters
+d) 21.59 meters
+3
+
+9) If Phil falls off a building after deciding that life is too hard, he has an acceleration of -9.81 m/s^2. Phil hits the ground with a velocity of 56.0m/s, how tall was the building?
+a) 160.2 m
+b) 160 m
+c) 152 m
+d) 159 m
+1
+
+10) If Phil is on a sled going across a flat plane with a frictional constant of 0.35. If his initial velocity is 100m/s and Phil and his sled have a combined mass of 75kg how far will Phil get in meters.
+a) 3.4335
+b) 219.25
+c) 1456.16
+d) 48.12
+2
